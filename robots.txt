@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-jq99er.kujang138bos.online/sitemap.xml
